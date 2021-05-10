@@ -11,3 +11,4 @@ The Rotary encoder is used to configure the tempo of the morse code signal. This
 ## Future Improvements
 It would be cool to see if someone is able to attach To La Fortuna's together and have them communicate. Also, it might be conveniate if it could save the message to an SD card.
 
+![alt text](https://github.com/tjo21dodds/AVR-Morsecode-Interpreter/blob/master/front.jpg?raw=true)
